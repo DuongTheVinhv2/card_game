@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>DODEKATHLOS - audio lab</title>
+  <style>
+    :root { color-scheme: dark; }
+    html, body { margin: 0; background: #0d0b09; color: #e8dcc0; font: 13px/1.4 system-ui, sans-serif; }
+    main { padding: 16px 20px; max-width: 1560px; }
+    h1 { font: 600 20px/1 Georgia, serif; letter-spacing: 0.12em; color: #f0c46a; margin: 0 0 12px; }
+    h2 { font: 600 12px/1 system-ui; letter-spacing: 0.14em; text-transform: uppercase; color: #a8916a; margin: 14px 0 6px; }
+    .row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+    button { background: #221c14; color: #f1e4c4; border: 1px solid #5a4728; border-radius: 4px; padding: 5px 9px; cursor: pointer; font: inherit; }
+    button:hover { background: #33291b; border-color: #a07c3c; }
+    button.on { background: #6d4f1c; border-color: #f0c46a; }
+    label { display: inline-flex; gap: 6px; align-items: center; margin-right: 14px; }
+    input[type=range] { width: 140px; }
+    #status { color: #a8916a; margin-left: 8px; }
+    pre { background: #15110c; border: 1px solid #3a2e1c; padding: 8px; font: 11px/1.25 ui-monospace, Consolas, monospace; white-space: pre; overflow: auto; max-height: 520px; }
+    .bad { color: #ff7a5c; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>DODEKATHLOS &middot; AUDIO LAB</h1>
+    <div class="row">
+      <button id="init">Init audio</button>
+      <button id="selftest">Run offline self-test</button>
+      <span id="status">not initialized</span>
+    </div>
+    <h2>Mix</h2>
+    <div class="row" id="mixer"></div>
+    <h2>Music</h2>
+    <div class="row" id="music"></div>
+    <h2>Score ticks</h2>
+    <div class="row" id="ticks"></div>
+    <h2>SFX</h2>
+    <div class="row" id="sfx"></div>
+    <h2>Self-test</h2>
+    <pre id="out">(press "Run offline self-test")</pre>
+  </main>
+  <script type="module" src="./audio.ts"></script>
+</body>
+</html>

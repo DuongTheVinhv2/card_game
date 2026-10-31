@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>DODEKATHLOS — illustrated 2D creatures</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        background: #03040a;
+        overflow: hidden;
+        font-family: 'Segoe UI', sans-serif;
+        color: #cfd8ff;
+      }
+      #app {
+        position: fixed;
+        inset: 0;
+      }
+      #labels {
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+      }
+      .lbl {
+        position: absolute;
+        transform: translate(-50%, 0);
+        font: 600 13px/1.2 Georgia, serif;
+        letter-spacing: 0.08em;
+        color: rgba(230, 220, 190, 0.85);
+        text-shadow: 0 0 6px #000;
+        white-space: nowrap;
+      }
+      #ui {
+        position: fixed;
+        left: 10px;
+        bottom: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        max-width: 760px;
+        opacity: 0.85;
+      }
+      #ui button,
+      #ui select {
+        background: rgba(20, 24, 50, 0.85);
+        color: #dfe6ff;
+        border: 1px solid #3b4680;
+        border-radius: 4px;
+        padding: 4px 9px;
+        font-size: 12px;
+        cursor: pointer;
+      }
+      #ui label {
+        font-size: 12px;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+      }
+      #hud {
+        position: fixed;
+        right: 10px;
+        top: 8px;
+        font: 12px monospace;
+        color: #8fa0d8;
+        text-align: right;
+      }
+      #title {
+        position: fixed;
+        left: 50%;
+        top: 22px;
+        transform: translateX(-50%);
+        font: 600 26px Georgia, serif;
+        letter-spacing: 0.18em;
+        color: rgba(240, 225, 190, 0.9);
+        text-shadow: 0 0 12px rgba(0, 0, 0, 0.9);
+      }
+      canvas.dbg {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <div id="labels"></div>
+    <div id="title"></div>
+    <div id="hud"></div>
+    <div id="ui"></div>
+    <script type="module" src="./creatures.ts"></script>
+  </body>
+</html>
