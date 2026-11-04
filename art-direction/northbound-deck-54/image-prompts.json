@@ -1,0 +1,330 @@
+{
+  "generator": "Built-in ImageGen",
+  "templatePrompt": "Use case: precise-object-edit. One complete Northbound playing card face, edge-to-edge in the portrait aspect ratio of the APPROVED REFERENCE CARD. The reference is the visual template only. Match exact layout, distances and thicknesses as closely as possible: simple dark slate iron frame, shallow parchment band with very large rank on left, suit title centered, one standard suit glyph right, central painting, tiny NORTHBOUND footer. Change the illustration and the upper band labels and glyph. Art direction DODEKATHLOS Northbound: original hand-painted stylized 2D military-mythic Greek world seen by a Viking, broad matte brush-painted angular masses, ink contour, just two to three shadow values, subtle fierce expression, expressive anatomy, no photographic or engraved detail. Main creature almost fills the panel width, entire body and extremities in the image, good scale and clear head and silhouette. Strong subject/background separation everywhere: creature brighter and more saturated, warm or pale rim light on creature only, background low contrast deep muted navy with one quiet silhouette of Greek column or stones, no atmospheric foreground over subject. Similar subject-to-background separation to reference. Keep the main creature and scene recognizably new; do not retain any creature anatomy from reference. No outside margin, card mockup, second card, captions, or additional text.",
+  "faces": [
+    {
+      "file": "clubs/02.png",
+      "subject": "brick beetle with kiln-fired ceramic scales",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"2\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: brick beetle with kiln-fired ceramic scales. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "clubs/03.png",
+      "subject": "trench mole tunneling beneath a Greek bronze shield",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"3\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: trench mole tunneling beneath a Greek bronze shield. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "clubs/04.png",
+      "subject": "pangolin curled in chain-linked scales",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"4\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: pangolin curled in chain-linked scales. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "clubs/05.png",
+      "subject": "gravel porcupine bristling with stone spines",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"5\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: gravel porcupine bristling with stone spines. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "clubs/06.png",
+      "subject": "stockade buffalo bracing with timber stakes",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"6\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: stockade buffalo bracing with timber stakes. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "clubs/07.png",
+      "subject": "limestone lizard shedding a broken armor plate",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"7\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: limestone lizard shedding a broken armor plate. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "clubs/08.png",
+      "subject": "pillar crab with thick column-like legs",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"8\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: pillar crab with thick column-like legs. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "clubs/09.png",
+      "subject": "millstone bear winding up a massive paw",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"9\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: millstone bear winding up a massive paw. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "clubs/10.png",
+      "subject": "foundation serpent erupting from marble rubble",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"10\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: foundation serpent erupting from marble rubble. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "clubs/11-J.png",
+      "subject": "siege bull breaking a gate with stone-cracking horns",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"J\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: siege bull breaking a gate with stone-cracking horns. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "clubs/12-Q.png",
+      "subject": "tower spider with sturdy pillar legs",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"Q\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: tower spider with sturdy pillar legs. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "clubs/13-K.png",
+      "subject": "colossal armored elephant bearing a slab of Greek battlement",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"K\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: colossal armored elephant bearing a slab of Greek battlement. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "clubs/14-A.png",
+      "subject": "unfinished clay colossus coming to life",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"A\" on left, \"STONE\" centered, one standard playing card club symbol on right in ochre and antique gold. Accent palette ochre and antique gold. Main creature: unfinished clay colossus coming to life. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "diamonds/02.png",
+      "subject": "giant leech with a curved body clinging to a bronze gauntlet",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"2\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: giant leech with a curved body clinging to a bronze gauntlet. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "diamonds/03.png",
+      "subject": "frost-salt toad inside a bubble mantle",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"3\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: frost-salt toad inside a bubble mantle. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "diamonds/04.png",
+      "subject": "eyeless cave fish creating a whirlpool",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"4\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: eyeless cave fish creating a whirlpool. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "diamonds/05.png",
+      "subject": "crab with one enormous anchor-shaped claw",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"5\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: crab with one enormous anchor-shaped claw. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "diamonds/06.png",
+      "subject": "ruin-marsh otter diving past a fallen spear",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"6\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: ruin-marsh otter diving past a fallen spear. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "diamonds/07.png",
+      "subject": "mirror turtle",
+      "reference": "07-diamonds-v2.png",
+      "source": "Approved v2 PNG copied as-is"
+    },
+    {
+      "file": "diamonds/08.png",
+      "subject": "floodgate eel arcing above canal water",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"8\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: floodgate eel arcing above canal water. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "diamonds/09.png",
+      "subject": "white reed stag trailing a small wisp of fog",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"9\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: white reed stag trailing a small wisp of fog. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "diamonds/10.png",
+      "subject": "dam-break crocodile with blue wet scutes",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"10\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: dam-break crocodile with blue wet scutes. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "diamonds/11-J.png",
+      "subject": "armored sluice crustacean with gate-like carapace",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"J\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: armored sluice crustacean with gate-like carapace. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "diamonds/12-Q.png",
+      "subject": "crowned icy jellyfish above a flooded temple",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"Q\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: crowned icy jellyfish above a flooded temple. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "diamonds/13-K.png",
+      "subject": "monumental siege whale rising above the waters",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"K\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: monumental siege whale rising above the waters. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "diamonds/14-A.png",
+      "subject": "juvenile drowned dragon coiled in a spiral current",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"A\" on left, \"TIDE\" centered, one standard playing card diamond symbol on right in clear icy blue. Accent palette clear icy blue. Main creature: juvenile drowned dragon coiled in a spiral current. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "hearts/02.png",
+      "subject": "ember-toothed charcoal rat with lit wick",
+      "reference": "02-hearts-v2.png",
+      "source": "Approved v2 PNG copied as-is"
+    },
+    {
+      "file": "hearts/03.png",
+      "subject": "blast furnace beetle with cracked glowing shell",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"3\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: blast furnace beetle with cracked glowing shell. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "hearts/04.png",
+      "subject": "wick crow diving with burning beak",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"4\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: wick crow diving with burning beak. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "hearts/05.png",
+      "subject": "furnace salamander exhaling hot ash",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"5\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: furnace salamander exhaling hot ash. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "hearts/06.png",
+      "subject": "war goat with red-hot iron horns",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"6\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: war goat with red-hot iron horns. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "hearts/07.png",
+      "subject": "soot hound tracking a luminous burning footprint",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"7\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: soot hound tracking a luminous burning footprint. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "hearts/08.png",
+      "subject": "smelter bat with torn wings shedding sparks",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"8\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: smelter bat with torn wings shedding sparks. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "hearts/09.png",
+      "subject": "slag-tusk boar battering a shield",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"9\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: slag-tusk boar battering a shield. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "hearts/10.png",
+      "subject": "coal centipede lighting a stone fissure",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"10\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: coal centipede lighting a stone fissure. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "hearts/11-J.png",
+      "subject": "armored cavalry beast with scorched Greek pennant",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"J\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: armored cavalry beast with scorched Greek pennant. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "hearts/12-Q.png",
+      "subject": "royal furnace spider igniting its own web",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"Q\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: royal furnace spider igniting its own web. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "hearts/13-K.png",
+      "subject": "regal ash-fanged tiger with molten fangs and Greek bronze armor",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"K\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: regal ash-fanged tiger with molten fangs and Greek bronze armor. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "hearts/14-A.png",
+      "subject": "young ash phoenix emerging from a cold bronze brazier",
+      "reference": "02-hearts-v2.png",
+      "cardPrompt": "Exact header: \"A\" on left, \"EMBER\" centered, one standard playing card heart symbol on right in ember red and orange. Accent palette ember red and orange. Main creature: young ash phoenix emerging from a cold bronze brazier. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "jokers/01-black.png",
+      "subject": "Black Joker: lean, intimidating ash-black trickster monster with burnt obsidian half-mask, ember-red fissures on one forearm and a restrained halo of unstable red-orange elemental energy; pale rim light and simple slate-blue background make its black silhouette clear. Bronze Greek theater mask influence, distorted animal posture, broad unmistakable jagged collar.",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "This is a Joker outside the four suits. Use exact text \"BLACK JOKER\" centered in parchment, with a single small distinct four-point Joker star at either side and no number or standard suit glyph. Main creature: Black Joker: lean, intimidating ash-black trickster monster with burnt obsidian half-mask, ember-red fissures on one forearm and a restrained halo of unstable red-orange elemental energy; pale rim light and simple slate-blue background make its black silhouette clear. Bronze Greek theater mask influence, distorted animal posture, broad unmistakable jagged collar.."
+    },
+    {
+      "file": "jokers/02-white.png",
+      "subject": "White Joker: pale bone-white trickster monster in a smooth ivory Greek theater half-mask, elegant hunched silhouette and ivory layered mantle. A small dual-hued pale cyan and warm ochre reflection on its hands suggests opposing elemental power. Strong white figure over quiet dark navy ruins.",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "This is a Joker outside the four suits. Use exact text \"WHITE JOKER\" centered in parchment, with a single small distinct four-point Joker star at either side and no number or standard suit glyph. Main creature: White Joker: pale bone-white trickster monster in a smooth ivory Greek theater half-mask, elegant hunched silhouette and ivory layered mantle. A small dual-hued pale cyan and warm ochre reflection on its hands suggests opposing elemental power. Strong white figure over quiet dark navy ruins.."
+    },
+    {
+      "file": "spades/02.png",
+      "subject": "ash sparrow banking around a broken spear",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"2\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: ash sparrow banking around a broken spear. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "spades/03.png",
+      "subject": "storm hare bounding with a tiny lightning fork",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"3\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: storm hare bounding with a tiny lightning fork. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "spades/04.png",
+      "subject": "moth with tattered battle-standard wings",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"4\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: moth with tattered battle-standard wings. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "spades/05.png",
+      "subject": "ravine fox with a windblown bushy tail",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"5\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: ravine fox with a windblown bushy tail. A smaller, agile creature with immediate readable features."
+    },
+    {
+      "file": "spades/06.png",
+      "subject": "saw-wing praying mantis with crossed scythes",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"6\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: saw-wing praying mantis with crossed scythes. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "spades/07.png",
+      "subject": "bell-hook owl diving beside a cracked bronze bell",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"7\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: bell-hook owl diving beside a cracked bronze bell. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "spades/08.png",
+      "subject": "gale hawk diving wings back",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"8\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: gale hawk diving wings back. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "spades/09.png",
+      "subject": "storm stag racing with wind-torn green antlers",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"9\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: storm stag racing with wind-torn green antlers. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "spades/10.png",
+      "subject": "flagpole wyvern banking around a ruined standard",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"10\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: flagpole wyvern banking around a ruined standard. Give it a sturdy, distinctive stance."
+    },
+    {
+      "file": "spades/11-J.png",
+      "subject": "howling gale hyena",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"J\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: howling gale hyena. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "spades/12-Q.png",
+      "subject": "cicada queen with broad leaf-like wings beside a broken war drum",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"Q\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: cicada queen with broad leaf-like wings beside a broken war drum. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "spades/13-K.png",
+      "subject": "sovereign eagle unleashing a gust from a collapsed Greek summit",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"K\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: sovereign eagle unleashing a gust from a collapsed Greek summit. A powerful distinct elite silhouette."
+    },
+    {
+      "file": "spades/14-A.png",
+      "subject": "young stormbird inside a faint rotating wind halo",
+      "reference": "07-diamonds-v2.png",
+      "cardPrompt": "Exact header: \"A\" on left, \"GALE\" centered, one standard playing card spade symbol on right in sage green and pale mint. Accent palette sage green and pale mint. Main creature: young stormbird inside a faint rotating wind halo. Give it a sturdy, distinctive stance."
+    }
+  ]
+}

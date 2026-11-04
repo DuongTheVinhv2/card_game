@@ -1,0 +1,195 @@
+{
+  "source": "Ashborne GDD va FDD.docx, mục 03, 05, 06",
+  "generator": "Built-in ImageGen",
+  "styleReference": "veilbound-deck-54/diamonds/07.png",
+  "commonPrompt": "Use case: stylized-concept. Generate a SQUARE 1:1 fantasy card illustration, no card border or typography, no symbols, no frame, no lock, no binding circle. Use the attached Veilbound card only for painting style: stylized 2D gouache, large angular masses, matte pigments, dark ink contours, selective angular highlights. Fantasy world with diverse cultures and a weathered lacquer, leather and bronze material language. No Greek or Roman costume motifs. Central subject must be immediately legible, large and fully inside the picture with breathing room on all sides. Keep environment subdued and darker than the subject, with strong edge separation and a simple, low-detail fantasy background. No photorealism.",
+  "cards": [
+    {
+      "file": "army/recruits/01-tan-binh.png",
+      "name": "Tân binh",
+      "type": "QUÂN",
+      "stats": "",
+      "copies": 3,
+      "subject": "a single young volunteer recruit holding a blunt practice spear upright with worn leather, ash-blue scarf and patched cloak, no helmet",
+      "rules": "Thẻ ở đáy chồng công thành.",
+      "index": 0,
+      "promptSuffix": "Phase 1 siege deck. Military field illustration, sober warm bronze and steel blue, no magical effects. Subject: a single young volunteer recruit holding a blunt practice spear upright with worn leather, ash-blue scarf and patched cloak, no helmet."
+    },
+    {
+      "file": "army/equipment/01-giao.png",
+      "name": "Giáo",
+      "type": "TRANG BỊ",
+      "stats": "",
+      "copies": 2,
+      "subject": "one long steel military spear with prominent barbed spearhead and bronze wrapping displayed diagonally",
+      "rules": "Ghép với Tân binh để thành Giáo binh.",
+      "index": 1,
+      "promptSuffix": "Phase 1 siege deck. Military field illustration, sober warm bronze and steel blue, no magical effects. Subject: one long steel military spear with prominent barbed spearhead and bronze wrapping displayed diagonally."
+    },
+    {
+      "file": "army/equipment/02-khien.png",
+      "name": "Khiên",
+      "type": "TRANG BỊ",
+      "stats": "",
+      "copies": 1,
+      "subject": "a single large rounded kite shield in dark bronze and teal blue, deeply notched edge and central iron boss",
+      "rules": "Ghép với Tân binh để thành Hộ vệ.",
+      "index": 2,
+      "promptSuffix": "Phase 1 siege deck. Military field illustration, sober warm bronze and steel blue, no magical effects. Subject: a single large rounded kite shield in dark bronze and teal blue, deeply notched edge and central iron boss."
+    },
+    {
+      "file": "army/command/01-si-quan.png",
+      "name": "Sĩ quan",
+      "type": "CHỈ HUY",
+      "stats": "",
+      "copies": 1,
+      "subject": "seasoned officer with a half-cape holding a folded standard and a raised baton, directing the line, practical layered armor",
+      "rules": "Ghép cùng Tân binh và Giáo để thành Giáo binh tinh nhuệ.",
+      "index": 3,
+      "promptSuffix": "Phase 1 siege deck. Military field illustration, sober warm bronze and steel blue, no magical effects. Subject: seasoned officer with a half-cape holding a folded standard and a raised baton, directing the line, practical layered armor."
+    },
+    {
+      "file": "army/formations/01-dan-binh.png",
+      "name": "Dân binh",
+      "type": "ĐỘI HÌNH",
+      "stats": "SỨC 2  •  LƯƠNG 1",
+      "copies": null,
+      "subject": "three militia fighters in a loose wedge, short improvised weapons and mismatched gear, strong group silhouette",
+      "rules": "Tân binh.",
+      "index": 4,
+      "promptSuffix": "Phase 1 siege deck. Military field illustration, sober warm bronze and steel blue, no magical effects. Subject: three militia fighters in a loose wedge, short improvised weapons and mismatched gear, strong group silhouette."
+    },
+    {
+      "file": "army/formations/02-giao-binh.png",
+      "name": "Giáo binh",
+      "type": "ĐỘI HÌNH",
+      "stats": "SỨC 3  •  LƯƠNG 1",
+      "copies": null,
+      "subject": "three disciplined spearmen in a compact line, steel spearheads angled parallel to the viewer, one clear leading soldier",
+      "rules": "Tân binh + Giáo.",
+      "index": 5,
+      "promptSuffix": "Phase 1 siege deck. Military field illustration, sober warm bronze and steel blue, no magical effects. Subject: three disciplined spearmen in a compact line, steel spearheads angled parallel to the viewer, one clear leading soldier."
+    },
+    {
+      "file": "army/formations/03-ho-ve.png",
+      "name": "Hộ vệ",
+      "type": "ĐỘI HÌNH",
+      "stats": "SỨC 4  •  LƯƠNG 2",
+      "copies": null,
+      "subject": "three defenders interlocking broad bronze kite shields in a strong low shield wall, clear central shield",
+      "rules": "Tân binh + Khiên.",
+      "index": 6,
+      "promptSuffix": "Phase 1 siege deck. Military field illustration, sober warm bronze and steel blue, no magical effects. Subject: three defenders interlocking broad bronze kite shields in a strong low shield wall, clear central shield."
+    },
+    {
+      "file": "army/formations/04-giao-binh-tinh-nhue.png",
+      "name": "Giáo binh tinh nhuệ",
+      "type": "ĐỘI HÌNH",
+      "stats": "SỨC 5  •  LƯƠNG 2",
+      "copies": null,
+      "subject": "three elite spearmen in blackened steel and bronze with a crimson regiment pennant, dramatic forward charge in a tight formation, steel points readable",
+      "rules": "Tân binh + Giáo + Sĩ quan.",
+      "index": 7,
+      "promptSuffix": "Phase 1 siege deck. Military field illustration, sober warm bronze and steel blue, no magical effects. Subject: three elite spearmen in blackened steel and bronze with a crimson regiment pennant, dramatic forward charge in a tight formation, steel points readable."
+    },
+    {
+      "file": "combat/attacks/01-chem-ngang.png",
+      "name": "Chém Ngang",
+      "type": "ĐÁNH THƯỜNG · KIẾM",
+      "stats": "5 SÁT THƯƠNG",
+      "copies": 2,
+      "subject": "a swordsman sweeping a broad sword horizontally in a clean lateral attack, wide silver arc shows one stroke, warm ivory light",
+      "rules": "1 mana, 5 sát thương.",
+      "index": 8,
+      "promptSuffix": "Phase 2 combat deck. Readable action or elemental object, dynamic but uncluttered. Subject: a swordsman sweeping a broad sword horizontally in a clean lateral attack, wide silver arc shows one stroke, warm ivory light."
+    },
+    {
+      "file": "combat/attacks/02-ban-ghim.png",
+      "name": "Bắn Ghim",
+      "type": "ĐÁNH THƯỜNG · CUNG",
+      "stats": "4 SÁT THƯƠNG  •  GHIM 1",
+      "copies": 2,
+      "subject": "a fantasy archer releasing one visibly straight arrow that pins the edge of an enemy's cloak to a post, clear central bow and arrow silhouette",
+      "rules": "1 mana, 4 sát thương. Ở đáy đặt 1 Ghim, giảm 2 sát thương của đòn địch kế tiếp.",
+      "index": 9,
+      "promptSuffix": "Phase 2 combat deck. Readable action or elemental object, dynamic but uncluttered. Subject: a fantasy archer releasing one visibly straight arrow that pins the edge of an enemy's cloak to a post, clear central bow and arrow silhouette."
+    },
+    {
+      "file": "combat/attacks/03-dam-thang.png",
+      "name": "Đâm Thẳng",
+      "type": "ĐÁNH THƯỜNG · GIÁO",
+      "stats": "5 SÁT THƯƠNG",
+      "copies": 1,
+      "subject": "an agile spearfighter lunging directly forward in a focused straight thrust, luminous straight line behind the spear, full pose readable",
+      "rules": "1 mana, 5 sát thương.",
+      "index": 10,
+      "promptSuffix": "Phase 2 combat deck. Readable action or elemental object, dynamic but uncluttered. Subject: an agile spearfighter lunging directly forward in a focused straight thrust, luminous straight line behind the spear, full pose readable."
+    },
+    {
+      "file": "combat/skills/01-thu-kiem.png",
+      "name": "Thủ Kiếm",
+      "type": "KỸ NĂNG · KIẾM",
+      "stats": "5 KHIÊN",
+      "copies": 2,
+      "subject": "armored duelist braced in sword guard intercepting a descending blade, defensive posture and small sparks at one point",
+      "rules": "1 mana, 5 Khiên.",
+      "index": 11,
+      "promptSuffix": "Phase 2 combat deck. Readable action or elemental object, dynamic but uncluttered. Subject: armored duelist braced in sword guard intercepting a descending blade, defensive posture and small sparks at one point."
+    },
+    {
+      "file": "combat/skills/02-ne-lui.png",
+      "name": "Né Lùi",
+      "type": "KỸ NĂNG · CUNG",
+      "stats": "4 KHIÊN  •  RÚT 1",
+      "copies": 1,
+      "subject": "light armored archer dodging backward with bow held low as a blade whiffs in front, wind-swept scarf and staggered feet, pale teal rim",
+      "rules": "1 mana, 4 Khiên. Ở đáy rút 1.",
+      "index": 12,
+      "promptSuffix": "Phase 2 combat deck. Readable action or elemental object, dynamic but uncluttered. Subject: light armored archer dodging backward with bow held low as a blade whiffs in front, wind-swept scarf and staggered feet, pale teal rim."
+    },
+    {
+      "file": "combat/elements/01-tan-lua.png",
+      "name": "Tàn Lửa",
+      "type": "NGUYÊN TỐ · LỬA",
+      "stats": "LẺ +3 SÁT THƯƠNG  •  GHÉP THIÊU ĐỐT 2",
+      "copies": 1,
+      "subject": "one floating jagged glowing coal with a short vigorous red-orange flame curling around it, strong dark blue background",
+      "rules": "1 mana. Dùng riêng +3 sát thương cho đòn thường kế tiếp. Gắn đòn đặt 2 Thiêu Đốt.",
+      "index": 13,
+      "promptSuffix": "Phase 2 combat deck. Readable action or elemental object, dynamic but uncluttered. Subject: one floating jagged glowing coal with a short vigorous red-orange flame curling around it, strong dark blue background."
+    },
+    {
+      "file": "combat/elements/02-dong-lanh.png",
+      "name": "Dòng Lạnh",
+      "type": "NGUYÊN TỐ · NƯỚC",
+      "stats": "LẺ +3 KHIÊN  •  GHÉP SUY YẾU 1",
+      "copies": 1,
+      "subject": "one suspended spiral of clear bright icy water with a faceted droplet at center and small ice fragments, deep indigo background",
+      "rules": "1 mana. Dùng riêng cho 3 Khiên sau đòn thường kế tiếp. Gắn đòn đặt 1 Suy Yếu.",
+      "index": 14,
+      "promptSuffix": "Phase 2 combat deck. Readable action or elemental object, dynamic but uncluttered. Subject: one suspended spiral of clear bright icy water with a faceted droplet at center and small ice fragments, deep indigo background."
+    },
+    {
+      "file": "combat/elements/03-gio-lua.png",
+      "name": "Gió Lùa",
+      "type": "NGUYÊN TỐ · GIÓ",
+      "stats": "LẺ RÚT 1  •  GHÉP RÚT 1",
+      "copies": 1,
+      "subject": "one spiraling luminous silver-green gust around a single hovering feather in a floating island shrine, strong negative space",
+      "rules": "1 mana. Dùng riêng rút 1 sau đòn thường kế tiếp. Gắn đòn rút 1 ngay sau khi đòn giải quyết.",
+      "index": 15,
+      "promptSuffix": "Phase 2 combat deck. Readable action or elemental object, dynamic but uncluttered. Subject: one spiraling luminous silver-green gust around a single hovering feather in a floating island shrine, strong negative space."
+    },
+    {
+      "file": "combat/elements/04-vo-da.png",
+      "name": "Vỏ Đá",
+      "type": "NGUYÊN TỐ · ĐẤT",
+      "stats": "LẺ +4 KHIÊN  •  GHÉP +3 KHIÊN",
+      "copies": 1,
+      "subject": "one big levitating shell of three ochre slabs forming a shield-like silhouette with warm amber fractures, dark muted root cavern",
+      "rules": "1 mana. Dùng riêng cho 4 Khiên sau đòn thường kế tiếp. Gắn đòn cho 3 Khiên ngay.",
+      "index": 16,
+      "promptSuffix": "Phase 2 combat deck. Readable action or elemental object, dynamic but uncluttered. Subject: one big levitating shell of three ochre slabs forming a shield-like silhouette with warm amber fractures, dark muted root cavern."
+    }
+  ]
+}

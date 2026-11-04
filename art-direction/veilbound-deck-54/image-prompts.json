@@ -1,0 +1,331 @@
+{
+  "generator": "Built-in ImageGen",
+  "reference": "diamonds/07.png",
+  "commonPrompt": "Use case: stylized-concept. A single original VEILBOUND sealed monster playing card face. Portrait 5:7, flat straight-on, fills image to edge. Original high fantasy design. Lacquer-black outer frame, thin inlaid brass lines, bold angular parchment rank tab in top left and clean suit symbol in top right, small matching brass clasp at lower center. In the image panel a large segmented luminous arcane binding ring wraps BEHIND the silhouette, three little metal locks on the outside of the circle convey a creature trapped inside an artifact. Strong creature silhouette dominates 80% of art panel, full body, brighter than its subdued blue-charcoal environment. Stylized high-contrast 2D gouache and angular creature anatomy with a little ink texture; large readable shapes, restrained background, no photorealism, no crowded filigree. Make the creature fierce. Header should be simple and legible. No other words, no mockup, no barcode, no existing character likeness.",
+  "faces": [
+    {
+      "file": "hearts/02.png",
+      "subject": "cinder termite",
+      "rank": "2",
+      "promptSuffix": "Exact header \"2\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is cinder termite, a wild sealed monster. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/03.png",
+      "subject": "basalt jackal",
+      "rank": "3",
+      "promptSuffix": "Exact header \"3\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is basalt jackal, a wild sealed monster. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/04.png",
+      "subject": "lantern scorpion",
+      "rank": "4",
+      "promptSuffix": "Exact header \"4\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is lantern scorpion, a wild sealed monster. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/05.png",
+      "subject": "kiln tortoise",
+      "rank": "5",
+      "promptSuffix": "Exact header \"5\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is kiln tortoise, a wild sealed monster. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/06.png",
+      "subject": "glassback vulture",
+      "rank": "6",
+      "promptSuffix": "Exact header \"6\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is glassback vulture, a wild sealed monster. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/07.png",
+      "subject": "copper-maned lion",
+      "rank": "7",
+      "promptSuffix": "Exact header \"7\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is copper-maned lion, a wild sealed monster. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/08.png",
+      "subject": "forge salamander",
+      "rank": "8",
+      "promptSuffix": "Exact header \"8\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is forge salamander, a wild sealed monster. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/09.png",
+      "subject": "smokewing basilisk",
+      "rank": "9",
+      "promptSuffix": "Exact header \"9\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is smokewing basilisk, a wild sealed monster. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/10.png",
+      "subject": "pyre ram",
+      "rank": "10",
+      "promptSuffix": "Exact header \"10\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is pyre ram, a wild sealed monster. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/11-J.png",
+      "subject": "volcanic centaur hammer warrior",
+      "rank": "J",
+      "promptSuffix": "Exact header \"J\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is volcanic centaur hammer warrior, a high-rank intelligent ruler or elite. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/12-Q.png",
+      "subject": "moth-winged copper queen",
+      "rank": "Q",
+      "promptSuffix": "Exact header \"Q\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is moth-winged copper queen, a high-rank intelligent ruler or elite. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/13-K.png",
+      "subject": "ash emperor dragon",
+      "rank": "K",
+      "promptSuffix": "Exact header \"K\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is ash emperor dragon, a high-rank intelligent ruler or elite. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "hearts/14-A.png",
+      "subject": "phoenix knight in a red enamel exoskeleton",
+      "rank": "A",
+      "promptSuffix": "Exact header \"A\" and one standard heart symbol. Key accent palette ember-red and copper. Subject is phoenix knight in a red enamel exoskeleton, a transfiguration-grade humanoid hybrid. Its home realm volcanic caldera is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/02.png",
+      "subject": "tide shrimp",
+      "rank": "2",
+      "promptSuffix": "Exact header \"2\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is tide shrimp, a wild sealed monster. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/03.png",
+      "subject": "kelp otter",
+      "rank": "3",
+      "promptSuffix": "Exact header \"3\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is kelp otter, a wild sealed monster. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/04.png",
+      "subject": "barnacle whelk",
+      "rank": "4",
+      "promptSuffix": "Exact header \"4\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is barnacle whelk, a wild sealed monster. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/05.png",
+      "subject": "river serpent",
+      "rank": "5",
+      "promptSuffix": "Exact header \"5\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is river serpent, a wild sealed monster. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/06.png",
+      "subject": "ink cuttlefish",
+      "rank": "6",
+      "promptSuffix": "Exact header \"6\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is ink cuttlefish, a wild sealed monster. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/07.png",
+      "subject": "mirror-shelled snapping turtle",
+      "rank": "7",
+      "promptSuffix": "Exact header \"7\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is mirror-shelled snapping turtle, a wild sealed monster. Its home realm drowned libraries is suggested by subtle silhouettes only."
+    },
+    {
+      "file": "diamonds/08.png",
+      "subject": "armored swordfish",
+      "rank": "8",
+      "promptSuffix": "Exact header \"8\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is armored swordfish, a wild sealed monster. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/09.png",
+      "subject": "bell jellyfish",
+      "rank": "9",
+      "promptSuffix": "Exact header \"9\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is bell jellyfish, a wild sealed monster. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/10.png",
+      "subject": "abyssal sixgill shark",
+      "rank": "10",
+      "promptSuffix": "Exact header \"10\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is abyssal sixgill shark, a wild sealed monster. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/11-J.png",
+      "subject": "nautilus halberd guardian",
+      "rank": "J",
+      "promptSuffix": "Exact header \"J\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is nautilus halberd guardian, a high-rank intelligent ruler or elite. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/12-Q.png",
+      "subject": "coral antlered oracle",
+      "rank": "Q",
+      "promptSuffix": "Exact header \"Q\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is coral antlered oracle, a high-rank intelligent ruler or elite. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/13-K.png",
+      "subject": "leviathan with cathedral fins",
+      "rank": "K",
+      "promptSuffix": "Exact header \"K\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is leviathan with cathedral fins, a high-rank intelligent ruler or elite. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "diamonds/14-A.png",
+      "subject": "axolotl knight in nacre",
+      "rank": "A",
+      "promptSuffix": "Exact header \"A\" and one standard diamond symbol. Key accent palette cobalt and turquoise. Subject is axolotl knight in nacre, a transfiguration-grade humanoid hybrid. Its home realm drowned libraries is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  "
+    },
+    {
+      "file": "spades/02.png",
+      "subject": "wind cricket",
+      "rank": "2",
+      "promptSuffix": "Exact header \"2\" and one standard spade symbol. Key accent palette jade and silver. Subject is wind cricket, a wild sealed monster. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/03.png",
+      "subject": "cloud hare",
+      "rank": "3",
+      "promptSuffix": "Exact header \"3\" and one standard spade symbol. Key accent palette jade and silver. Subject is cloud hare, a wild sealed monster. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/04.png",
+      "subject": "silver swift",
+      "rank": "4",
+      "promptSuffix": "Exact header \"4\" and one standard spade symbol. Key accent palette jade and silver. Subject is silver swift, a wild sealed monster. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/05.png",
+      "subject": "paperwing bat",
+      "rank": "5",
+      "promptSuffix": "Exact header \"5\" and one standard spade symbol. Key accent palette jade and silver. Subject is paperwing bat, a wild sealed monster. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/06.png",
+      "subject": "sail-fin lizard",
+      "rank": "6",
+      "promptSuffix": "Exact header \"6\" and one standard spade symbol. Key accent palette jade and silver. Subject is sail-fin lizard, a wild sealed monster. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/07.png",
+      "subject": "cyclone lynx",
+      "rank": "7",
+      "promptSuffix": "Exact header \"7\" and one standard spade symbol. Key accent palette jade and silver. Subject is cyclone lynx, a wild sealed monster. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/08.png",
+      "subject": "storm heron",
+      "rank": "8",
+      "promptSuffix": "Exact header \"8\" and one standard spade symbol. Key accent palette jade and silver. Subject is storm heron, a wild sealed monster. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/09.png",
+      "subject": "thunder ray",
+      "rank": "9",
+      "promptSuffix": "Exact header \"9\" and one standard spade symbol. Key accent palette jade and silver. Subject is thunder ray, a wild sealed monster. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/10.png",
+      "subject": "two-headed sky wyvern",
+      "rank": "10",
+      "promptSuffix": "Exact header \"10\" and one standard spade symbol. Key accent palette jade and silver. Subject is two-headed sky wyvern, a wild sealed monster. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/11-J.png",
+      "subject": "blade-feather falcon knight",
+      "rank": "J",
+      "promptSuffix": "Exact header \"J\" and one standard spade symbol. Key accent palette jade and silver. Subject is blade-feather falcon knight, a high-rank intelligent ruler or elite. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/12-Q.png",
+      "subject": "cicada-wing queen",
+      "rank": "Q",
+      "promptSuffix": "Exact header \"Q\" and one standard spade symbol. Key accent palette jade and silver. Subject is cicada-wing queen, a high-rank intelligent ruler or elite. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/13-K.png",
+      "subject": "storm elk titan",
+      "rank": "K",
+      "promptSuffix": "Exact header \"K\" and one standard spade symbol. Key accent palette jade and silver. Subject is storm elk titan, a high-rank intelligent ruler or elite. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "spades/14-A.png",
+      "subject": "emerald dragonfly knight",
+      "rank": "A",
+      "promptSuffix": "Exact header \"A\" and one standard spade symbol. Key accent palette jade and silver. Subject is emerald dragonfly knight, a transfiguration-grade humanoid hybrid. Its home realm floating islands is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/02.png",
+      "subject": "flint pillbug",
+      "rank": "2",
+      "promptSuffix": "Exact header \"2\" and one standard club symbol. Key accent palette ochre and moss. Subject is flint pillbug, a wild sealed monster. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/03.png",
+      "subject": "root mole",
+      "rank": "3",
+      "promptSuffix": "Exact header \"3\" and one standard club symbol. Key accent palette ochre and moss. Subject is root mole, a wild sealed monster. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/04.png",
+      "subject": "amber gecko",
+      "rank": "4",
+      "promptSuffix": "Exact header \"4\" and one standard club symbol. Key accent palette ochre and moss. Subject is amber gecko, a wild sealed monster. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/05.png",
+      "subject": "moss porcupine",
+      "rank": "5",
+      "promptSuffix": "Exact header \"5\" and one standard club symbol. Key accent palette ochre and moss. Subject is moss porcupine, a wild sealed monster. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/06.png",
+      "subject": "iron tusk tapir",
+      "rank": "6",
+      "promptSuffix": "Exact header \"6\" and one standard club symbol. Key accent palette ochre and moss. Subject is iron tusk tapir, a wild sealed monster. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/07.png",
+      "subject": "lichen bear",
+      "rank": "7",
+      "promptSuffix": "Exact header \"7\" and one standard club symbol. Key accent palette ochre and moss. Subject is lichen bear, a wild sealed monster. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/08.png",
+      "subject": "quartz pangolin",
+      "rank": "8",
+      "promptSuffix": "Exact header \"8\" and one standard club symbol. Key accent palette ochre and moss. Subject is quartz pangolin, a wild sealed monster. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/09.png",
+      "subject": "fungal stag",
+      "rank": "9",
+      "promptSuffix": "Exact header \"9\" and one standard club symbol. Key accent palette ochre and moss. Subject is fungal stag, a wild sealed monster. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/10.png",
+      "subject": "earthquake rhinoceros",
+      "rank": "10",
+      "promptSuffix": "Exact header \"10\" and one standard club symbol. Key accent palette ochre and moss. Subject is earthquake rhinoceros, a wild sealed monster. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/11-J.png",
+      "subject": "geode ram knight",
+      "rank": "J",
+      "promptSuffix": "Exact header \"J\" and one standard club symbol. Key accent palette ochre and moss. Subject is geode ram knight, a high-rank intelligent ruler or elite. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/12-Q.png",
+      "subject": "fungal canopy queen",
+      "rank": "Q",
+      "promptSuffix": "Exact header \"Q\" and one standard club symbol. Key accent palette ochre and moss. Subject is fungal canopy queen, a high-rank intelligent ruler or elite. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/13-K.png",
+      "subject": "amber fossil megatherium king",
+      "rank": "K",
+      "promptSuffix": "Exact header \"K\" and one standard club symbol. Key accent palette ochre and moss. Subject is amber fossil megatherium king, a high-rank intelligent ruler or elite. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "clubs/14-A.png",
+      "subject": "flint stag beetle knight",
+      "rank": "A",
+      "promptSuffix": "Exact header \"A\" and one standard club symbol. Key accent palette ochre and moss. Subject is flint stag beetle knight, a transfiguration-grade humanoid hybrid. Its home realm crystal forests is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides. Render the pip in bright ivory so it reads on black. "
+    },
+    {
+      "file": "jokers/01-black.png",
+      "subject": "obsidian executioner beast with bisected mask, torn cloak, hooked digitigrade legs and an arm with red volcanic cracks",
+      "rank": "BLACK JOKER",
+      "promptSuffix": "Exact header \"BLACK JOKER\" and one standard black four-point star symbol. Key accent palette obsidian and vermilion. Subject is obsidian executioner beast with bisected mask, torn cloak, hooked digitigrade legs and an arm with red volcanic cracks, a outsider beyond the four houses. Its home realm torn-open rift is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  Put the exact Joker name in a wide upper parchment header; use a star instead of a suit."
+    },
+    {
+      "file": "jokers/02-white.png",
+      "subject": "ivory porcelain trickster creature with asymmetric ears, four ribbon arms, inverted halo and opposed hues of magic in its palms",
+      "rank": "WHITE JOKER",
+      "promptSuffix": "Exact header \"WHITE JOKER\" and one standard ivory four-point star symbol. Key accent palette ivory and opal cyan. Subject is ivory porcelain trickster creature with asymmetric ears, four ribbon arms, inverted halo and opposed hues of magic in its palms, a outsider beyond the four houses. Its home realm suspended reflective void is suggested by subtle silhouettes only.\nUse supplied 7 of diamonds only as a visual reference for outer card design and brushwork. Retain its clipped corner panels, brass trim, keyhole clasp and locked binding circle. Completely replace the turtle, rank, glyph, colors, and underwater background with the current subject. Make the background and circle darker than the creature, and give the creature breathing room on all sides.  Put the exact Joker name in a wide upper parchment header; use a star instead of a suit."
+    }
+  ]
+}

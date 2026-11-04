@@ -1,0 +1,103 @@
+{
+  "generator": "Built-in ImageGen",
+  "reference": "Ảnh trận sư tử do người dùng cung cấp",
+  "commonPrompt": "Use case: stylized-concept. Square 1:1 illustration for a fantasy army card, artwork only, NO frame, symbols, lettering or card layout. Match the attached lion battle image VERY CLOSELY in rendering style: extremely simplified 2D hand-painted angular cutout shapes, large flat matte color blocks, just TWO OR THREE discrete cel-painted shade planes per material, irregular dark ink contours where necessary, chunky anatomy, tiny to no texture. The approved reference reads like a game cutout, not a detailed illustration: NO realistic faces, no painterly portrait realism, no dense details, no shiny metal, no gradients or fine brush rendering. Use reference as STYLE AND PALETTE only; do not include the lion or copy the fight. Background is a dark low contrast muted navy and teal space with a few very large ground and wall shapes, no environment crowding. The subject must be warmer and much brighter than all background, wholly contained inside the art, readable with breathing room around its silhouette. Infantry must read as a small cohesive group, with one dominant lead silhouette, not an elaborate posed portrait. Keep lighting simple, favor warm ochre, dull iron and muted fabric like the reference.",
+  "cards": [
+    {
+      "i": 0,
+      "file": "inputs/01-tan-binh.png",
+      "name": "Tân binh",
+      "type": "QUÂN",
+      "stats": "ĐÁY CHỒNG",
+      "subject": "Andean highland fantasy recruit, one young adult with simple geometric woven tunic, rolled blanket and short staff, alert and ready; no shield or elite armor"
+    },
+    {
+      "i": 1,
+      "file": "inputs/02-giao.png",
+      "name": "Giáo",
+      "type": "TRANG BỊ",
+      "stats": "GHÉP QUÂN",
+      "subject": "one single dark ashwood spear diagonally across frame, broad warm dull-steel leaf-shaped spearhead and short oxblood wrapping"
+    },
+    {
+      "i": 2,
+      "file": "inputs/03-khien.png",
+      "name": "Khiên",
+      "type": "TRANG BỊ",
+      "stats": "GHÉP QUÂN",
+      "subject": "one single broad weathered wooden infantry shield with a warm bronze boss, dull teal face and one simple ochre Ashborne chevron, tilted three-quarter view"
+    },
+    {
+      "i": 3,
+      "file": "inputs/04-si-quan.png",
+      "name": "Sĩ quan",
+      "type": "CHỈ HUY",
+      "stats": "GHÉP QUÂN",
+      "subject": "one commanding veteran, mix worn European coat and compact East Asian lacquer shoulder plates, simple brass clasp and deep red sash, one baton and a folded banner, no crown"
+    },
+    {
+      "i": 4,
+      "file": "formations/01-dan-binh.png",
+      "name": "Dân binh",
+      "type": "ĐỘI HÌNH",
+      "stats": "SỨC 2   •   LƯƠNG 1",
+      "subject": "three original fantasy local defenders with Aotearoa Māori influence, holding simple wooden tao spears and one flat wooden patu, draped woven-fiber garments and short practical cloaks, staggered loose stance, no ceremonial attire"
+    },
+    {
+      "i": 5,
+      "file": "formations/02-giao-binh.png",
+      "name": "Giáo binh",
+      "type": "ĐỘI HÌNH",
+      "stats": "SỨC 3   •   LƯƠNG 1",
+      "subject": "three Zulu-inspired infantry advancing with short iklwa spears and long oval warm-brown hide shields, staggered low attack line, simple functional gear"
+    },
+    {
+      "i": 6,
+      "file": "formations/03-ho-ve.png",
+      "name": "Hộ vệ",
+      "type": "ĐỘI HÌNH",
+      "stats": "SỨC 4   •   LƯƠNG 2",
+      "subject": "three Roman-legion-inspired infantry locking three huge curved rectangular scuta shoulder to shoulder. Red-brown shield faces, ochre emblem and worn brass trim, subtle lacquer plate accents, no crested parade helmets"
+    },
+    {
+      "i": 7,
+      "file": "formations/04-giao-binh-tinh-nhue.png",
+      "name": "Giáo binh tinh nhuệ",
+      "type": "ĐỘI HÌNH",
+      "stats": "SỨC 5   •   LƯƠNG 2",
+      "subject": "three elite Japanese Sengoku yari spearmen in a straight well-spaced spear formation, black lacquer lamellar over slate cloth, subtle European textile and brass trim, red short back flags, spears visibly much longer than Zulu iklwa"
+    },
+    {
+      "i": 8,
+      "file": "reinforcements/01-viking.png",
+      "name": "Viking",
+      "type": "VIỆN QUÂN",
+      "stats": "ĐỘI HÌNH MỞ RỘNG",
+      "subject": "three Viking infantry with broad circular ochre wooden shields and single-bearded axes, functional chainmail, simple fur collar and red-brown hair, sturdy wedge, no horned helmet"
+    },
+    {
+      "i": 9,
+      "file": "reinforcements/02-sparta.png",
+      "name": "Hoplite Sparta",
+      "type": "VIỆN QUÂN",
+      "stats": "ĐỘI HÌNH MỞ RỘNG",
+      "subject": "three Spartan-inspired Greek hoplites with round dark-bronze aspis shields, restrained crimson cloaks and simple bronze Corinthian-style helmets, long spears leveled in a tight line, distinguishable from rectangular Roman shields"
+    },
+    {
+      "i": 10,
+      "file": "reinforcements/03-ky-cung-mong-co.png",
+      "name": "Kỵ cung Mông Cổ",
+      "type": "VIỆN QUÂN",
+      "stats": "ĐỘI HÌNH MỞ RỘNG",
+      "subject": "one dominant Mongol horse archer and a small companion silhouette, low compact warm tan horse turned sideways, rider draws a distinct small recurved bow, practical layered leather and muted burgundy coat, foreground horse fully visible"
+    },
+    {
+      "i": 11,
+      "file": "reinforcements/04-bao-dom.png",
+      "name": "Chiến binh Báo Đốm",
+      "type": "VIỆN QUÂN",
+      "stats": "ĐỘI HÌNH MỞ RỘNG",
+      "subject": "two Mexica Jaguar-warrior-inspired infantry with simplified yellow-ochre jaguar-pattern padded suits, readable warm silhouette, one round shield and one broad dark obsidian-edged macuahuitl, avoid facial paint, no ritual scene"
+    }
+  ]
+}
